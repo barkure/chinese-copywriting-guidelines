@@ -5,11 +5,11 @@
 
 統一中文文案、排版的相關用法，降低團隊成員之間的溝通成本，增強網站氣質。
 
-Other languages:
+其他語言：
 
 - [English](README.en.md)
-- [Chinese Traditional](README.md)
-- [Chinese Simplified](README.zh-Hans.md)
+- [繁體中文](README.md)
+- [简体中文](README.zh-Hans.md)
 
 -----
 
@@ -17,7 +17,7 @@ Other languages:
 
 > 「有研究顯示，打字的時候不喜歡在中文和英文之間加空格的人，感情路都走得很辛苦，有七成的比例會在 34 歲的時候跟自己不愛的人結婚，而其餘三成的人最後只能把遺產留給自己的貓。畢竟愛情跟書寫都需要適時地留白。
 >
-> 與大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+> 與大家共勉之。」—— [vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### 中英文之間需要增加空格
 
